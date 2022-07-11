@@ -13,8 +13,8 @@ Created on Thu May 26 13:47:36 2022
 #https://ieeexplore.ieee.org/document/8259775
 #https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know
 import nltk
-#nltk.set_proxy('http://rb-proxy-de.bosch.com:8080',('CSU5KOR','Boschwork%402027'))
-#nltk.set_proxy('http://csu5kor:Boschwork%402027@rb-proxy-de.bosch.com:8080')
+#nltk.set_proxy('http://rb-proxy-de.bosch.com:8080',('XXXXX','XXXXX'))
+#nltk.set_proxy('http://XXXX:XXXXX@rb-proxy-de.bosch.com:8080')
 #nltk.download('wordnet')
 import os
 import string
